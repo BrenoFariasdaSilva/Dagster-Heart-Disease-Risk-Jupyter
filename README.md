@@ -1,5 +1,4 @@
-# Heart Disease Risk - Dagster Project
-### [Repository](https://github.com/BrenoFariasdaSilva/Heart-Disease-Risk)
+# Heart Disease Risk Jupyter - Dagster Project
 ## Useful documentation:
 * [Dagster Full Documentation](https://docs.dagster.io/getting-started)
 * [Dagster Tutorial](https://docs.dagster.io/tutorial)
