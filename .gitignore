@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 tmp*/
+
+# Heart Disease Risk Data Folders
+heart_disease_risk/data/
+heart_disease_risk/notebooks/
