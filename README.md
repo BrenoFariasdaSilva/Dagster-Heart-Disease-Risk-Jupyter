@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Dagster - Heart Disease Risk Jupyter Model.](https://github.com/BrenoFariasdaSilva/Heart-Disease-Risk-Jupyter.git)
+# [Dagster - Heart Disease Risk Jupyter Model.](https://github.com/BrenoFariasdaSilva/Heart-Disease-Risk-Jupyter.git) <img src="https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/blob/main/assets/Dagster.svg"  width="11%" height="11%">
 
 </div>
 
