@@ -8,6 +8,12 @@
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.svg" alt="wakatime" />
 </p>
 
+<div align="center">
+  
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/ffb76698ddad901eb72d29cedd8e5a70219671f2.svg "Repobeats analytics image")
+
+</div>
+
 ## Useful documentation:
 * [Dagster Full Documentation](https://docs.dagster.io/getting-started)
 * [Dagster Tutorial](https://docs.dagster.io/tutorial)
