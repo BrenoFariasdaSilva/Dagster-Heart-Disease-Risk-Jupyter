@@ -4,6 +4,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.svg" alt="wakatime" />
+</p>
+
 ## Useful documentation:
 * [Dagster Full Documentation](https://docs.dagster.io/getting-started)
 * [Dagster Tutorial](https://docs.dagster.io/tutorial)
