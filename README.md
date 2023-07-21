@@ -4,9 +4,14 @@
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.svg)
+
+</div>
 
 <div align="center">
   
