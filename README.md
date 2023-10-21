@@ -21,8 +21,8 @@
 
 ## Table of Contents
 - [Dagster - Heart Disease Risk Jupyter Model. ](#dagster---heart-disease-risk-jupyter-model-)
-  - [Table of Contents](#table-of-contents)
-  - [Useful documentation:](#useful-documentation)
+	- [Table of Contents](#table-of-contents)
+	- [Useful documentation:](#useful-documentation)
 - [Clone the project:](#clone-the-project)
 - [Installation:](#installation)
 - [How the project was created:](#how-the-project-was-created)
@@ -44,13 +44,21 @@
 
 # Clone the project:
 ```bash
-git clone https://github.com/BrenoFariasdaSilva/Heart-Disease-Risk.git
-cd Heart-Disease-Risk
+git clone https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.git
+cd Heart-Disease-Risk-Jupyter
 ```
 # Installation:
 ```bash
-pip install dagster dagit
+pip install -e ".[dev]"
+pip install dagster dagit notebook
 ```
+
+or 
+
+```bash
+make setup
+```
+
 # How the project was created:
 ```bash
 dagster project scaffold --name heart_disease_risk
