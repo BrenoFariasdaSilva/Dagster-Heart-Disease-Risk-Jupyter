@@ -10,15 +10,6 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
 ![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.svg)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/main)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/commits/main)
 [![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/network/members)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
@@ -33,7 +24,6 @@
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/main)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/pulls?q=is%3Apr+is%3Amerged)
 ![GitHub Primary Language](https://img.shields.io/badge/language-Python-3b82f6)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/ffb76698ddad901eb72d29cedd8e5a70219671f2.svg)
 
 </div>
