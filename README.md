@@ -14,10 +14,30 @@
 </div>
 
 <div align="center">
-  
-![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/ffb76698ddad901eb72d29cedd8e5a70219671f2.svg "Repobeats analytics image")
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter.svg)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/main)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/commits/main)
+[![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/network/members)
+![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+[![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/graphs/contributors)
+[![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
+[![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/pulls?q=is%3Apr+is%3Aclosed)
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/main)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/commits)
+[![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/pulls?q=is%3Apr+is%3Amerged)
+![GitHub Primary Language](https://img.shields.io/badge/language-Python-3b82f6)
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/ffb76698ddad901eb72d29cedd8e5a70219671f2.svg)
 
 </div>
+
 
 ## Table of Contents
 - [Dagster - Heart Disease Risk Jupyter Model. ](#dagster---heart-disease-risk-jupyter-model-)
