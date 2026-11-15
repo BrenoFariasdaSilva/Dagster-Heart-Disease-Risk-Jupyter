@@ -16,7 +16,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter)](https://github.com/BrenoFariasdaSilva/Dagster-Heart-Disease-Risk-Jupyter/pulls)
